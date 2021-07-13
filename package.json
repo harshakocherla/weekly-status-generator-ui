@@ -1,0 +1,19 @@
+{
+  "name": "weekly-status-generator-ui",
+  "version": "1.0.0",
+  "description": "view for weekly status generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshakocherla/weekly-status-generator-ui.git"
+  },
+  "author": "harsha kocherla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshakocherla/weekly-status-generator-ui/issues"
+  },
+  "homepage": "https://github.com/harshakocherla/weekly-status-generator-ui#readme"
+}
